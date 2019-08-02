@@ -9,3 +9,5 @@ Press the up and down arrow keys to increase the blur window velocity (number of
 Press 'w' to increase the blur kernel size (maximim 101)\
 Press 's' to decrease the blur kernel size (minimum 1)\
 Press 't' to toggle the information about the slide velocity and kernel size
+
+You can also use the mouse to move the slider as well.
